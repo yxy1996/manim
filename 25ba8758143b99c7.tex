@@ -1,6 +1,7 @@
 \documentclass[preview]{standalone}
 
 \usepackage[english]{babel}
+\usepackage{CJKutf8} % This is the package for Japanese language
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{dsfont}
@@ -14,13 +15,19 @@
 \usepackage{ragged2e}
 \usepackage{physics}
 \usepackage{xcolor}
+\usepackage{textcomp}
 \usepackage{microtype}
-%\DisableLigatures{encoding = *, family = * }
+\DisableLigatures{encoding = *, family = * }
+%\usepackage[UTF8]{ctex}
+\linespread{1}
 \usepackage{CJKutf8}
 \newcommand{\che}[1]{\begin{CJK}{UTF8}{gbsn}#1\end{CJK}}
-\linespread{1}
 
 
 \begin{document}
-write your tex
+
+\begin{align*}
+\mathbf{\xi}^* =
+\end{align*}
+
 \end{document}

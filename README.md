@@ -154,3 +154,6 @@ Is always welcome. In particular, there is a dire need for tests and documentati
 All files in the directories active_projects and old_projects, which by and large generate the visuals for 3b1b videos, are copyright 3Blue1Brown.
 
 The general purpose animation code found in the remainder of the repository, on the other hand, is under the MIT license.
+
+==import sys==
+

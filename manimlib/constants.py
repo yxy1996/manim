@@ -6,6 +6,7 @@ VIDEO_DIR = ""
 VIDEO_OUTPUT_DIR = ""
 TEX_DIR = ""
 TEXT_DIR = ""
+SVG_IMAGE_DIR = ""
 
 
 def initialize_directories(config):
@@ -14,7 +15,10 @@ def initialize_directories(config):
     global VIDEO_OUTPUT_DIR
     global TEX_DIR
     global TEXT_DIR
+#    global SVG_IMAGE_DIR
 
+
+    
     video_path_specified = config["video_dir"] or config["video_output_dir"]
 
     if not (video_path_specified and config["tex_dir"]):
@@ -242,8 +246,8 @@ COLOR_MAP = {
     "PURPLE_A": "#CAA3E8",
     "WHITE": "#FFFFFF",
     "BLACK": "#000000",
-    "LIGHT_GRAY": "#BBBBBB",
-    "LIGHT_GREY": "#BBBBBB",
+    "LIGHT_GRAY": "#DDDDDD",
+    "LIGHT_GREY": "#DDDDDD",
     "GRAY": "#888888",
     "GREY": "#888888",
     "DARK_GREY": "#444444",

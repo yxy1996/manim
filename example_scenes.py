@@ -15,6 +15,13 @@ from manimlib.imports import *
 # for a 1920x1080 video)
 
 
+class moonmen(ZoomedScene):
+
+   def construct(self):
+       creation = SVGMobject("PiCreatures_plain")
+           
+       self.add(creation)
+
 class OpeningManimExample(Scene):
     def construct(self):
         title = TextMobject("This is some \\LaTeX")
