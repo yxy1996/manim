@@ -9,13 +9,15 @@
 Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at [3Blue1Brown](https://www.3blue1brown.com/).
 
 ## Installation
+```bash
+sudo ln /usr/local/python3/bin/python3.7 /usr/bin/python3
+```
+
 Manim runs on python 3.7. You can install it from PyPI via pip
 
 ```bash
-
+sudo ln /usr/local/python3/bin/python3.7 /usr/bin/python3
 ```
-
-
 
 ```sh
 pip3 install manimlib
