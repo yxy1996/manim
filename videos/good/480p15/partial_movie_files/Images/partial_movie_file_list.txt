@@ -1,0 +1,5 @@
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/good/480p15/partial_movie_files/Images/00000.mp4'
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/good/480p15/partial_movie_files/Images/00001.mp4'
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/good/480p15/partial_movie_files/Images/00002.mp4'
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/good/480p15/partial_movie_files/Images/00003.mp4'
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/good/480p15/partial_movie_files/Images/00004.mp4'

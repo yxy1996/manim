@@ -1,0 +1,2 @@
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/shadows/480p15/partial_movie_files/loam/00000.mp4'
+file '/media/yxy/文档/ubuntu下载/manim-master/media/videos/shadows/480p15/partial_movie_files/loam/00001.mp4'
